@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'UnlimitedHeadline';
+    src: url('fonts/UnlimitedHeadline/UnlimitedHeadline.eot');
+    src: url('fonts/UnlimitedHeadline/UnlimitedHeadline.eot?#iefix') format('embedded-opentype'),
+        url('fonts/UnlimitedHeadline/UnlimitedHeadline.woff2') format('woff2'),
+        url('fonts/UnlimitedHeadline/UnlimitedHeadline.woff') format('woff'),
+        url('fonts/UnlimitedHeadline/UnlimitedHeadline.ttf') format('truetype'),
+        url('fonts/UnlimitedHeadline/UnlimitedHeadline.svg#UnlimitedHeadline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins/Poppins-Bold.eot');
+    src: url('fonts/Poppins/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins/Poppins-Bold.woff2') format('woff2'),
+        url('fonts/Poppins/Poppins-Bold.woff') format('woff'),
+        url('fonts/Poppins/Poppins-Bold.ttf') format('truetype'),
+        url('fonts/Poppins/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-med';
+    src: url('fonts/inter-med/Inter-Medium-Regular.woff2') format('woff2'),
+        url('fonts/inter-med/Inter-Medium.woff') format('woff'),
+        url('fonts/inter-med/Inter-Medium.ttf') format('truetype'),
+        url('fonts/inter-med/Inter-Medium.svg#Inter-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: url('fonts/CrimsonText/CrimsonText-Regular.eot');
+    src: url('fonts/CrimsonText/CrimsonText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CrimsonText/CrimsonText-Regular.woff2') format('woff2'),
+        url('fonts/CrimsonText/CrimsonText-Regular.woff') format('woff'),
+        url('fonts/CrimsonText/CrimsonText-Regular.ttf') format('truetype'),
+        url('fonts/CrimsonText/CrimsonText-Regular.svg#CrimsonText-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('fonts/Pacifico/Pacifico-Regular.eot');
+    src: url('fonts/Pacifico/Pacifico-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Pacifico/Pacifico-Regular.woff2') format('woff2'),
+        url('fonts/Pacifico/Pacifico-Regular.woff') format('woff'),
+        url('fonts/Pacifico/Pacifico-Regular.ttf') format('truetype'),
+        url('fonts/Pacifico/Pacifico-Regular.svg#Pacifico-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto/Roboto-Regular.eot');
+    src: url('fonts/Roboto/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Roboto/Roboto-Regular.woff2') format('woff2'),
+        url('fonts/Roboto/Roboto-Regular.woff') format('woff'),
+        url('fonts/Roboto/Roboto-Regular.ttf') format('truetype'),
+        url('fonts/Roboto/Roboto-Regular.svg#Roboto-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('fonts/OpenSans-Regular/OpenSans-Regular.eot');
+    src: url('fonts/OpenSans-Regular/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/OpenSans-Regular/OpenSans-Regular.woff2') format('woff2'),
+        url('fonts/OpenSans-Regular/OpenSans-Regular.woff') format('woff'),
+        url('fonts/OpenSans-Regular/OpenSans-Regular.ttf') format('truetype'),
+        url('fonts/OpenSans-Regular/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

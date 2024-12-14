@@ -1,0 +1,255 @@
+@media (max-width: 1600px) {
+    /* Signposting Start */
+    .signposting_title {
+        font-size: 38px;
+    }
+
+    .signposting_lttitle{
+        font-size: 29px;
+    }
+    /* Signposting End */
+
+    /* Full width cta Start */
+
+    .fullwidthcta_txt{
+        font-size: 29px;
+    }
+
+    .fullwidthcta_tit{
+        font-size: 61px;
+    }
+
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 550px;
+    }    
+    /* Full width cta End */
+}
+@media (max-width: 1400px) {
+    /* Signposting Start */
+    .signposting_title {
+        font-size: 35px;
+    }
+
+    .signposting_lttitle {
+        font-size: 27px;
+    }
+    /* Signposting End */
+
+    /* Full width cta Start */
+    .fullwidthcta_tit{
+        font-size: 58px;
+    }
+
+    .fullwidthcta_txt{
+        font-size: 27px;
+    }    
+
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 500px;
+    }
+    /* Full width cta End */    
+}
+@media (max-width: 1200px) {
+    /* Signposting Start */
+    .signposting_listctn {
+        padding: 40px 45px;
+    }
+    .signposting_title {
+        font-size: 32px;
+    }
+
+    .signposting_lttitle {
+        font-size: 25px;
+        line-height: 1.1;
+    }
+/* Signposting End */
+
+    /* Full width cta Start */
+    .fullwidthcta_tit{
+        font-size: 55px;
+    }
+    .fullwidthcta_txt{
+        font-size: 25px;
+    }  
+    
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 440px;
+    }
+    /* Full width cta End */
+}
+@media (max-width: 1024px) {
+    /* Signposting Start */
+    .signposting_listctn{
+        padding: 40px;
+    }
+
+    .signposting_title {
+        font-size: 30px;
+    }
+
+    .signposting_lttitle {
+        font-size: 23px;
+    }
+    /* Signposting End */
+
+        /* Full width cta Start */
+    .fullwidthcta_tit{
+        font-size: 52px;
+    }
+
+    .fullwidthcta_txt{
+        font-size: 23px;
+    }
+    
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 390px;
+    }
+    /* Full width cta End */
+}
+@media (max-width: 820px) {
+
+    /* Signposting Start */
+    .signposting_listctn {
+        padding: 30px;
+    }
+
+    .signposting_title {
+        font-size: 28px;
+    }
+
+    .signposting_lttitle {
+        font-size: 21px;
+    }
+     
+    .signpost_btn{
+        margin-top: 30px;
+    }
+
+    .signposting_lttext {
+        line-height: 1.3;
+    }
+    /* Signposting End */
+
+    /* Full width cta Start */
+    .fullwidthcta_tit{
+        font-size: 47px;
+    }
+
+    .fullwidthcta_txt{
+        font-size: 21px;
+    }    
+    
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 330px;
+    }    
+    /* Full width cta End */    
+    .c_editor .turtl-embed{
+        margin: auto !important;
+    }
+}
+@media (max-width: 740px) {
+
+    /* Signposting Start */
+    .signposting_sizer{
+        width: 100%;
+    }
+
+    .signposting_list{
+        flex: 100%;
+    }
+    .signposting_lists.three_post{
+        display: block;
+    }
+    .signposting_lists{
+        column-count: 1;
+    }
+    .signpost_ht{
+        display: none;
+    }
+    .signpost_btn{
+        display: block;
+        margin-right: 0;
+    }
+    /* Signposting End */
+
+    /* Full width cta Start */
+    .fullwidthcta_img,
+    .fullwidthcta_img svg{
+        width: 280px;
+         height: 360px;
+    }
+    /* Full width cta End */
+}
+@media (max-width: 600px) {
+    /* Full width cta Start */
+    .fullwidthcta_tit {
+        font-size: 44px;
+    }
+
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 240px;
+        height: 278px;
+    }  
+
+    .fullwidthcta_txt{
+        line-height: 1.2;
+    }
+
+    .fullcta_btn{
+        margin: 30px 0 0;
+        display: block;
+    }
+    /* Full width cta End */
+}
+@media (max-width: 420px) {
+
+    /* Signposting Start */
+    .signposting_listctn {
+        padding: 25px;
+    }
+    .signposting_title {
+        font-size: 25px;
+    }
+    .signposting_lttext {
+        font-size: 18px;
+    }
+    .signpost_btn {
+        margin-top: 20px;
+    }
+    .signposting_list{
+        margin-top: 30px;
+    }
+    /* Signposting End */
+
+    /* Full width cta Start */
+    .fullwidthcta_tit{
+        font-size: 40px;
+    }
+
+    .fullwidthcta_tit+.fullwidthcta_txt{
+        padding-top: 30px;
+    }
+    
+    .fullwidthcta_img, .fullwidthcta_img svg{
+        width: 190px;
+        height: 230px;
+    } 
+    /* Full width cta End */    
+}
+
+@media (max-width: 320px) {
+
+    /* Full width cta Start */
+    .fullwidthcta_tit {
+        font-size: 38px;
+    }
+    .fullwidthcta_img,
+    .fullwidthcta_img svg {
+        width: 130px;
+        height: 150px;
+    }
+    .fullwidthcta_txt {
+        font-size: 20px;
+    }
+    /* Full width cta End */
+}
